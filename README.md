@@ -7,7 +7,7 @@
 An intelligent surveillance system that combines face recognition, object detection, and pose estimation to provide real-time anomaly detection and automated email alerts for enhanced security in urban environments.
 
 ## 🌟 Features
-
+ 
 - **Face Recognition System**: Identifies known and unknown persons in real-time using LBPH (Local Binary Patterns Histograms) face recognition
 - **Object Detection**: Utilizes YOLOv8 for real-time object detection and tracking
 - **Pose Estimation**: Implements MediaPipe for human pose detection and analysis
