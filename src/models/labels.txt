@@ -1,4 +1,0 @@
-0,datchany
-1,hari
-2,muthu
-3,sham
